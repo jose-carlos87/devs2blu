@@ -1,0 +1,18 @@
+MANDAR O PROJETO PELA PRIMEIRA VEZ:
+
+1º git init
+2º git add . OU git add nomedoArquivo
+3º git commit -m "SuaMensagem"
+4º git remote add origin https://github.com/jose-carlos87/devs2blu.git
+
+ou
+
+git remote set-url origin https://github.com/jose-carlos87/devs2blu.git
+
+5º git push origin master OU git push origin main
+
+ATUALIZAR PROJETO:
+
+2º git add . OU git add nomedoArquivo
+3º git commit -m "SuaMensagem"
+5º git push origin master OU git push origin main
